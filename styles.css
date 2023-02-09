@@ -1,0 +1,36 @@
+.head{ 
+    color:aquamarine; 
+    font-size:large; 
+    text-align: center;
+}
+.Name{ 
+    color:#196F3D; 
+    font-size: 30px; 
+    text-align: center;
+}
+p.p{ 
+    color:#196F3D; 
+    font-size: 18px; 
+    text-align: center;
+}
+#link{ 
+    color:#2f6144; 
+    font-size: 15px; 
+    text-align: center;
+}
+#links{ 
+    color:#2f6144; 
+    font-size: 15px; 
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+h1{ 
+    color:rgb(28, 172, 124); 
+    font-size: 30px; 
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
